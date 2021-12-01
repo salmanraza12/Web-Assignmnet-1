@@ -1,2 +1,2 @@
-# Web-Assignmnet-1
-Web Assignmnet 1
+# assignment-1-responsive-layouts
+ 
